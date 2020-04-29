@@ -1,15 +1,24 @@
-# chat_flutter
+# Chat Flutter with Firebase
 
-A new Flutter project.
+This is a simple project wich consists on a App Chat.
+For Authentication, i used Firebase Auth with Google Account Login.
+For store the data, i used Firebase Storage + Firebase Database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project only contains the initials files.
 
-A few resources to get you started if this is your first Flutter project:
+To deploy it, you need to:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Install dependencies using
+```
+flutter pub get
+```
+
+- Run application
+```
+flutter run
+```
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
