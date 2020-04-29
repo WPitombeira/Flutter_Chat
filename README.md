@@ -8,6 +8,12 @@ For store the data, i used Firebase Storage + Firebase Database.
 
 This project only contains the initials files.
 
+Before deploy the application, you need to setup your firebase account.
+You can follow this tutorial which explains clearly the process.
+- [Add Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup).
+
+
+
 To deploy it, you need to:
 
 - Install dependencies using
